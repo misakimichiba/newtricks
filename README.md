@@ -1,16 +1,8 @@
-# flutter_demo_1
+# newtricks (Interactive Educational App for Elderly)
 
-A new Flutter project.
+A mobile application made for elderly persons to teach them mobile phone navigation through interactive exercises
 
-## Getting Started
+## Functions
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- How to use buttons, swipe, and etc
+- How to use their phones to snap pictures and scan QR codes
